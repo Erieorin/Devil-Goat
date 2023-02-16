@@ -1046,7 +1046,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  rd: {fileID: 1789026594}
+  rb: {fileID: 1789026594}
   animator: {fileID: 1789026592}
   startingPosition: {fileID: 11400000, guid: 7ea7d936f5ae212499a788a1f101736e, type: 2}
 --- !u!50 &1789026594
