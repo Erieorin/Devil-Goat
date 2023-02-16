@@ -448,7 +448,7 @@ GameObject:
   - component: {fileID: 1118017415}
   - component: {fileID: 1118017414}
   - component: {fileID: 1118017413}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -504,7 +504,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  rd: {fileID: 1118017416}
+  rb: {fileID: 1118017416}
   animator: {fileID: 1118017414}
   startingPosition: {fileID: 11400000, guid: 7ea7d936f5ae212499a788a1f101736e, type: 2}
 --- !u!50 &1118017416
