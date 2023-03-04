@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/goat room.unity
     guid: edfb756ccd8760b4fb59be755783792d
+  - enabled: 1
+    path: Assets/scenes/bad end.unity
+    guid: c26ffb57044a0c646a25c0d2fa29ece5
   m_configObjects: {}

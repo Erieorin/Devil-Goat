@@ -10,7 +10,7 @@ public class playermovement : MonoBehaviour
     public vectorvalue startingPosition;
 
     private bool canHide = false;
-    private bool hiding = false;
+    public bool hiding = false;
     private SpriteRenderer rend;
 
     Vector2 movement;
